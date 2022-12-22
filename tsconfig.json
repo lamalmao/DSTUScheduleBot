@@ -23,7 +23,7 @@
     "noFallthroughCasesInSwitch": true,
     // "noUnusedLocals": true, /*Подобная настройка включена в ESLint*/
     // "noUnusedParameters": true, /*Подобная настройка включена в ESLint*/
-    // "allowUnreachableCode": true, /*Лучше подключать при компиляции в Production*/
+    // "allowUnreachableCode": false, /*Лучше подключать при компиляции в Production*/
     // "allowUnusedLabels": true, /*Подобная настройка включена в ESLint*/
   }
 }
